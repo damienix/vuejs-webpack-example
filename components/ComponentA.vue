@@ -8,7 +8,7 @@
 <script>
 export default {
   data: () => ({
-    message: 'Hello Vue.sdjwasdfws!'
+    message: 'Component 1'
   })
 }
 </script>
